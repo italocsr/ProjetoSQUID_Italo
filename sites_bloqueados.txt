@@ -1,0 +1,10 @@
+.facebook.com
+.x.com
+.tiktok.com
+.instagram.com
+.youtube.com
+.steampowered.com
+.epicgames.com
+.riotgames.com
+.discord.com
+.chatgpt.com
